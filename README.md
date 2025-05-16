@@ -91,13 +91,21 @@ after the automation setUp just follow this step
 
 ![data_005](assets/data_005.jpg)
 
+Choose the 1 NetHunter ARM64 (full)
+
 ![data_005](assets/data_004.jpg)
+
+Then Choose N to use the current images (recommended)
+
+if you want you can Choose Y to re Download the image/iso files (be careful have some error)
 
 ![data_005](assets/data_003.jpg)
 
+Wait for all the data will be fully extract 
+
 ![data_005](assets/data_002.jpg)
 
-
+click Y to delete the existing tar files or You want to back-up it
 
 ### After the Installation 
 Copy paste this to install the Kali GPG Keys and this is also setup everything 
