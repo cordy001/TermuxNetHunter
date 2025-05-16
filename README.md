@@ -101,7 +101,7 @@ if you want you can Choose Y to re Download the image/iso files (be careful have
 
 ![data_005](assets/data_003.jpg)
 
-Wait for all the data will be fully extract 
+Wait for all the data will be fully extract this make takes a while
 
 ![data_005](assets/data_002.jpg)
 
