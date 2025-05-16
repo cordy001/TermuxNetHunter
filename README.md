@@ -2,6 +2,8 @@
 
 Please Follow below to start automation installation of nethunter on termux
 
+Estimated Processor Compatibility 
+Helio G85 Above
 
 ### Download Termux Here 
 if you are not download the termux I will recommend for you to download the github version and choose the universal version
