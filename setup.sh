@@ -13,6 +13,16 @@ termux-setup-storage
 
 echo " "
 echo "++++++++++++++++++++++++++++++"
+echo "Extracting NetHunter Fragments"
+echo "±+++++++++++++++++++++++++++++"
+echo " "
+
+apt install p7zip -y
+
+7z x NHfragments/kali-nethunter_fragments.zip.001 -o$HOME/TermuxNetHunter
+
+echo " "
+echo "++++++++++++++++++++++++++++++"
 echo "Installing Wget"
 echo "±+++++++++++++++++++++++++++++"
 echo " "
