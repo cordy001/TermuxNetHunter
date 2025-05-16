@@ -24,7 +24,7 @@ apt install git -y
 
 ```
 ### Clone the Repository 
-Copy Paste this to clone my automation
+Copy Paste this to clone my automation repo
 ```sh
 git clone https://github.com/cordy001/TermuxNetHunter.git
 
