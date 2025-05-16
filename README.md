@@ -12,26 +12,31 @@ https://github.com/termux/termux-x11/releases
 after the installation open the app and follow the step
 
 ### Update Termux First
+Update the termux environment
 ```sh
 apt update && apt upgrade -y
 
 ```
 ### Install Git
+then install the git by using this commands
 ```sh
 apt install git -y
 
 ```
 ### Clone the Repository 
+Copy Paste this to clone my automation
 ```sh
-git clone https://github.com/cordy001/Termux_Kali_Linux_Full_SetUp.git
+git clone https://github.com/cordy001/TermuxNetHunter.git
 
 ```
 ### Open the folder
+open the folder by typing cd TerNetHunter
 ```sh
 cd TermuxNetHunter
 
 ```
 ### Run the file
+Then Run this to Start the automation
 ```sh
 ./setup.sh
 
