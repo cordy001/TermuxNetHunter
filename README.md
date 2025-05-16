@@ -93,7 +93,12 @@ Copy paste this to install the Kali GPG Keys and this is also setup everything
 
 ```sh
 curl -fsSL https://archive.kali.org/archive-key.asc | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/kali-archive.gpg
-sudo apt update && sudo apt upgrade -y
+
+sudo apt update
+
+chown -R postgres:postgres /var/lib/postgresql/17/main
+
+sudo apt upgrade -y
 ```
 after that the kali will ask for password the password is 
 ```sh
