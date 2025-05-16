@@ -22,11 +22,6 @@ git clone https://github.com/cordy001/Termux_Kali_Linux_Full_SetUp.git
 cd TermuxNetHunter
 
 ```
-### Make the setup.sh a function
-```sh
-chmod +x setup.sh
-
-```
 ### Run the file
 ```sh
 ./setup.sh
