@@ -107,7 +107,7 @@ Wait for all the data will be fully extract this make takes a while
 
 click Y to delete the existing tar files or You want to back-up it
 
-![data_005](assets/data_002.jpg)
+![data_005](assets/data_006.jpg)
 
 this is the manuals to open the netHunter on termux
 
