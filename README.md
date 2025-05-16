@@ -2,17 +2,17 @@
 
 ## Get Started
 
-## Update Termux First
+### Update Termux First
 ```sh
 apt update && apt upgrade -y
 
 ```
-## Install Git
+### Install Git
 ```sh
 apt install git -y
 
 ```
-## Clone the Repository 
+### Clone the Repository 
 ```sh
 git clone 
 
