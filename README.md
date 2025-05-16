@@ -1,6 +1,6 @@
 ## Get Started
 
-Please Read and Follow below before to start automation installation of nethunter on termux
+Please Read and Follow below before to start automation of nethunter on termux
 
 Check Your device if Compatible for aarch64
 
