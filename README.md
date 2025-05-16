@@ -46,7 +46,17 @@ Then Run this to Start the automation
 ### Install the NetHunter
 after the automation setUp you will see 3 choices 
 
+### After the Installation 
+Copy paste this to install the Kali GPG Keys
 
+```sh
+curl -fsSL https://archive.kali.org/archive-key.asc | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/kali-archive.gpg
+sudo apt update && sudo apt upgrade -y
+```
+after that the kali will ask for password the password is 
+```sh
+kali
+```
 ### Privacy and Term of Use
 
 This project is provided for educational purposes only. By using this tool, you agree to the following:
