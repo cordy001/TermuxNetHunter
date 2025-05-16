@@ -1,6 +1,6 @@
 ## Get Started
 
-Please Follow below to start automation installation of nethunter on termux
+Please Read and Follow below before to start automation installation of nethunter on termux
 
 ### NetHunter Compatibility (based on architecture):
 
