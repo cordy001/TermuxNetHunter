@@ -97,7 +97,7 @@ Choose 1 NetHunter ARM64 (full)
 
 Then Choose N to use the current images (recommended)
 
-if you want you can Choose Y to re Download the image/iso files (be careful have some error)
+if you want, you can Choose Y to re-download the image/iso files again (be careful have some error)
 
 ![data_005](assets/data_003.jpg)
 
