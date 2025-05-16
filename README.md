@@ -47,7 +47,7 @@ Then Run this to Start the automation
 after the automation setUp you will see 3 choices 
 
 ### After the Installation 
-Copy paste this to install the Kali GPG Keys
+Copy paste this to install the Kali GPG Keys and this is also setup everything 
 
 ```sh
 curl -fsSL https://archive.kali.org/archive-key.asc | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/kali-archive.gpg
@@ -57,6 +57,10 @@ after that the kali will ask for password the password is
 ```sh
 kali
 ```
+### For more tutorial I a'm already exist on Tiktok
+
+if you want video tutorial check this link from my tiktok account 😁😁
+
 ### Privacy and Term of Use
 
 This project is provided for educational purposes only. By using this tool, you agree to the following:
