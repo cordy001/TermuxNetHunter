@@ -43,6 +43,10 @@ Then Run this to Start the automation
 
 ```
 
+### Install the NetHunter
+after the automation setUp you will see 3 choices 
+
+
 ### Privacy and Term of Use
 
 This project is provided for educational purposes only. By using this tool, you agree to the following:
