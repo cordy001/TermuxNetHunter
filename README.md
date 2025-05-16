@@ -19,7 +19,7 @@ git clone https://github.com/cordy001/Termux_Kali_Linux_Full_SetUp.git
 ```
 ### Open the folder
 ```sh
-cd Termux_Kali_Linux_Full_SetUp
+cd TermuxNetHunter
 
 ```
 ### Make the setup.sh a function
