@@ -2,12 +2,6 @@
 
 Please Read and Follow below before to start automation of nethunter on termux
 
-Check Your device if Compatible for aarch64
-
-```sh
-uname -m
-```
-
 ### NetHunter Compatibility (based on architecture):
 
 Required CPU Architecture: arm64 (aarch64)
@@ -50,8 +44,15 @@ if you are not download the termux I will recommend for you to download the gith
 
 https://github.com/termux/termux-x11/releases
 
-
 after the installation open the app and follow this step
+
+### Device Compatibility
+
+Check Your device if Compatible for aarch64
+
+```sh
+uname -m
+```
 
 ### Update Termux First
 Update the termux environment
