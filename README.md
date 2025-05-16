@@ -2,11 +2,15 @@
 
 Please Follow below to start automation installation of nethunter
 
+
 ### Download Termux Here 
+if you are not download the termux I will recommend for you to download the github version and choose the universal version
 ```sh
 https://github.com/termux/termux-x11/releases
 ```
-+++++++++++++++++ Open Termux +++++++++++++++++
+
+after the installation open the app and follow the step
+
 ### Update Termux First
 ```sh
 apt update && apt upgrade -y
