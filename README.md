@@ -42,7 +42,7 @@ Some Nokia (G10, G20)
 ### Download Termux Here 
 if you are not download the termux I will recommend for you to download the github version and choose the universal version
 
-https://github.com/termux/termux-x11/releases
+https://github.com/termux/termux-app/releases
 
 after the installation open the app and follow this step
 
