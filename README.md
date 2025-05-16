@@ -1,6 +1,6 @@
 ## Get Started
 
-Please Follow below to start automation installation of nethunter
+Please Follow below to start automation installation of nethunter on termux
 
 
 ### Download Termux Here 
