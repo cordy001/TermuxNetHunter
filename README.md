@@ -1,6 +1,6 @@
-# Termux_Kali_Linux_Full_SetUp
-
 ## Get Started
+
+Please Follow below to start automation installation of nethunter
 
 ### Update Termux First
 ```sh
