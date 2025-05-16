@@ -1,4 +1,6 @@
 
+clear
+
 echo " "
 echo "++++++++++++++++++++++++++++++"
 echo "Starting Set Up Kali Termux Automation by Cordy"
@@ -24,3 +26,6 @@ echo "±+++++++++++++++++++++++++++++"
 echo " "
 wget -O install-nethunter-termux https://offs.ec/2MceZWr
 
+chmod +x install-nethunter-termux
+
+./install-nethunter-termux
