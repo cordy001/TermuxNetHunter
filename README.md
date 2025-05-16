@@ -29,8 +29,9 @@ Copy Paste this to clone my automation repo
 git clone https://github.com/cordy001/TermuxNetHunter.git
 
 ```
+this is also depends how fast your internet speed to download all the fragments
 ### Open the folder
-open the folder by typing cd TerNetHunter
+after the cloning open the folder by typing cd TermuxNetHunter
 ```sh
 cd TermuxNetHunter
 
