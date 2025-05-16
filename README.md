@@ -91,7 +91,7 @@ after the automation setUp just follow this step
 
 ![data_005](assets/data_005.jpg)
 
-Choose the 1 NetHunter ARM64 (full)
+Choose 1 NetHunter ARM64 (full)
 
 ![data_005](assets/data_004.jpg)
 
