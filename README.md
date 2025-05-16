@@ -9,7 +9,7 @@ if you are not download the termux I will recommend for you to download the gith
 https://github.com/termux/termux-x11/releases
 ```
 
-after the installation open the app and follow the step
+after the installation open the app and follow this step
 
 ### Update Termux First
 Update the termux environment
