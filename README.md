@@ -87,7 +87,11 @@ Then Run this to Start the automation
 ```
 
 ### Install the NetHunter
-after the automation setUp you will see 3 choices 
+after the automation setUp just follow this step
+
+![data_005](assets/data_005.jpg)
+
+
 
 ### After the Installation 
 Copy paste this to install the Kali GPG Keys and this is also setup everything 
