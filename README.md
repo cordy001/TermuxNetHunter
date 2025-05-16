@@ -91,6 +91,12 @@ after the automation setUp just follow this step
 
 ![data_005](assets/data_005.jpg)
 
+![data_005](assets/data_004.jpg)
+
+![data_005](assets/data_003.jpg)
+
+![data_005](assets/data_002.jpg)
+
 
 
 ### After the Installation 
