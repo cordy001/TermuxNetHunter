@@ -14,7 +14,7 @@ OS: Android 8+ recommended
 
 ### Phones that are commonly compatible with NetHunter (arm64):
 
-Most of these use Snapdragon or MediaTek (like yours):
+Most of these use Snapdragon or MediaTek:
 
 Snapdragon-based (common)
 
