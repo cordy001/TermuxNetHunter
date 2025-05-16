@@ -2,6 +2,12 @@
 
 Please Read and Follow below before to start automation installation of nethunter on termux
 
+Check Your device if Compatible for aarch64
+
+```sh
+uname -m
+```
+
 ### NetHunter Compatibility (based on architecture):
 
 Required CPU Architecture: arm64 (aarch64)
