@@ -2,8 +2,42 @@
 
 Please Follow below to start automation installation of nethunter on termux
 
-Estimated Processor Compatibility 
-Helio G85 Above
+### NetHunter Compatibility (based on architecture):
+
+Required CPU Architecture: arm64 (aarch64)
+
+Storage: At least 8–12 GB free for full rootfs
+
+RAM: At least 2–4 GB for better stability
+
+OS: Android 8+ recommended
+
+### Phones that are commonly compatible with NetHunter (arm64):
+
+Most of these use Snapdragon or MediaTek (like yours):
+
+Snapdragon-based (common)
+
+OnePlus (5, 6, 7, 8, 9 series)
+
+Google Pixel (2 and above)
+
+Xiaomi (Redmi Note 8, 9, 10 series)
+
+Samsung Galaxy S9, S10, Note 9
+
+Poco X3, F1
+
+
+### MediaTek-based (also work in many cases)
+
+Realme C3, C15 (G35, G70)
+
+Infinix Note series (with Helio G85/G90T)
+
+Tecno Pova, Spark series
+
+Some Nokia (G10, G20)
 
 ### Download Termux Here 
 if you are not download the termux I will recommend for you to download the github version and choose the universal version
