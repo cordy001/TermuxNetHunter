@@ -127,6 +127,9 @@ after that the kali will ask for password the password is
 ```sh
 kali
 ```
+![data_005](assets/data_001.jpg)
+during the upgrade will pop-up this just click enter
+
 ### For more tutorial I a'm already exist on Tiktok
 
 if you want video tutorial check this link from my tiktok account 😁😁
