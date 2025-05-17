@@ -67,24 +67,13 @@ apt install git -y
 
 ```
 ### Clone the Repository 
-Copy Paste this to clone my automation repo
+Copy Paste this to clone my automation repo and start it automatically 
 ```sh
 git clone https://github.com/cordy001/TermuxNetHunter.git
-
+cd TermuxNetHunter
+./setup.sh
 ```
 this is also depends how fast your internet speed to download all the fragments
-### Open the folder
-after the cloning open the folder by typing cd TermuxNetHunter
-```sh
-cd TermuxNetHunter
-
-```
-### Run the file
-Then Run this to Start the automation
-```sh
-./setup.sh
-
-```
 
 ### Install the NetHunter
 after the automation setUp just follow this step
