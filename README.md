@@ -127,6 +127,15 @@ after that the kali will ask for password the password is
 ```sh
 kali
 ```
+if you want neofetch to check specifications 
+```sh
+git clone https://github.com/dylanaraps/neofetch.git
+cd neofetch
+sudo make install
+```
+```sh
+neofetch
+```
 ![data_005](assets/data_001.jpg)
 during the upgrade will pop-up this just click enter
 
