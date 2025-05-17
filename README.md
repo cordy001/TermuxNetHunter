@@ -139,7 +139,7 @@ neofetch
 
 if you want video tutorial check this link from my tiktok account 😁😁
 
-https://vt.tiktok.com/ZShXkbvqL/
+https://vt.tiktok.com/ZShXPWePx/
 
 
 ### Privacy and Term of Use
