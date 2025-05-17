@@ -139,6 +139,9 @@ neofetch
 
 if you want video tutorial check this link from my tiktok account 😁😁
 
+https://vt.tiktok.com/ZShXkbvqL/
+
+
 ### Privacy and Term of Use
 
 This project is provided for educational purposes only. By using this tool, you agree to the following:
