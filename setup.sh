@@ -29,7 +29,7 @@ echo " "
 
 cd $HOME/TermuxNetHunter
 
-FILE="kali-nethunter-daily-dev-rootfs-full-arm64.tar.xz"
+FILE="$HOME/kali-nethunter-daily-dev-rootfs-full-arm64.tar.xz"
 
 if [ -f "$FILE" ]; then
 
@@ -73,4 +73,7 @@ echo "++++++++++++++++++++++++++++++"
 echo "Click enter to open nethunter installer"
 echo " "
 read
+echo "Cleaning the TermuxNetHunter"
+rm -rf TermuxNetHunter
+echo "Done."
 ./install-nethunter-termux
