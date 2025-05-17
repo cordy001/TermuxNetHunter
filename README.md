@@ -111,6 +111,8 @@ sudo apt update
 chown -R postgres:postgres /var/lib/postgresql/17/main
 
 sudo apt upgrade -y
+
+sudo apt install -y kali-linux-default
 ```
 after that the kali will ask for password the password is 
 ```sh
