@@ -111,8 +111,6 @@ sudo apt update
 chown -R postgres:postgres /var/lib/postgresql/17/main
 
 sudo apt upgrade -y
-
-sudo apt install -y kali-linux-default
 ```
 after that the kali will ask for password the password is 
 ```sh
@@ -120,8 +118,11 @@ kali
 ```
 ![data_005](assets/data_001.jpg)
 during the upgrade will pop-up this just click enter
-
-### Neofetch
+### Make it default (Optional)
+```sh
+sudo apt install -y kali-linux-default
+```
+### Neofetch (Optional)
 if you want neofetch to check specifications 
 ```sh
 git clone https://github.com/dylanaraps/neofetch.git
