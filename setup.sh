@@ -14,7 +14,7 @@ echo " "
 echo "##############################"
 echo "Starting Set Up NetHunter Termux"
 echo "Automation tools by Cordy"
-echo "±+++++++++++++++++++++++++++++Beta 0.1124.03"
+echo "±+++++++++++++++++++++++++++++Beta 1.1124.03"
 echo " "
 
 apt update && apt upgrade -y
@@ -43,24 +43,6 @@ apt install p7zip -y
 
 fi
 
-
-
-echo " "
-echo "##############################"
-echo "Installing Wget"
-echo "##############################"
-echo " "
-
-apt install wget -y
-
-echo " "
-echo "##############################"
-echo "Installing Net Hunter Rootless"
-echo "##############################"
-echo " "
-wget -O install-nethunter-termux https://offs.ec/2MceZWr
-
-chmod +x install-nethunter-termux
 
 echo "
 -------
