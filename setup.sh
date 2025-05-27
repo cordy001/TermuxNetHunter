@@ -29,7 +29,7 @@ echo " "
 
 cd $HOME/TermuxNetHunter
 
-FILE="$HOME/kali-nethunter-daily-dev-rootfs-full-arm64.tar.xz"
+FILE="$HOME/kali-nethunter-rootfs-full-arm64.tar.xz"
 
 if [ -f "$FILE" ]; then
 
@@ -41,7 +41,7 @@ apt install p7zip -y
 
 7z x NHfragments/kali-nethunter_fragments.zip.001 -o"$HOME/"
 
-tar -xvJf kali-nethunter-daily-dev-rootfs-full-arm64.tar.xz
+tar -xvJf kali-nethunter-rootfs-full-arm64.tar.xz
 
 fi
 
