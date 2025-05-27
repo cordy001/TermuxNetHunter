@@ -41,10 +41,13 @@ apt install p7zip -y
 
 7z x NHfragments/kali-nethunter_fragments.zip.001 -o"$HOME/"
 
-tar -xvJf kali-nethunter-rootfs-full-arm64.tar.xz
+mv $HOME/kali-nethunter-daily-dev-rootfs-full-arm64.tar.xz $HOME/kali-nethunter-rootfs-full-arm64.tar.xz
 
 fi
 
+chmod +x $HOME/install-nethunter-termux
+
+./$HOME/install-nethunter-termux
 
 
 echo "
@@ -59,6 +62,7 @@ echo "Click enter to open nethunter installer"
 echo " "
 read
 echo "Cleaning Fragments"
-# rm -rf $HOME/TermuxNetHunter/NHfragments
+rm -rf $HOME/TermuxNetHunter/NHfragments
 echo "Done."
-./install-nethunter-termux
+
+nh
