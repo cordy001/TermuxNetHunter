@@ -49,7 +49,9 @@ mv $HOME/TermuxNetHunter/install-nethunter-termux $HOME/
 
 chmod +x $HOME/install-nethunter-termux
 
-./$HOME/install-nethunter-termux
+cd $HOME
+
+./install-nethunter-termux
 
 
 echo "
