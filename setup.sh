@@ -61,9 +61,6 @@ echo "++++++++++++++++++++++++++++++"
 echo "Click enter to open nethunter installer"
 echo " "
 read
-echo "Cleaning Fragments"
-rm -rf $HOME/TermuxNetHunter/NHfragments
-echo "Done."
 
 nh
 
@@ -78,3 +75,8 @@ chown -R postgres:postgres /var/lib/postgresql/17/main
 sudo apt upgrade -y
 
 sudo apt --fix-broken install
+
+echo "Cleaning Fragments"
+rm -rf $HOME/TermuxNetHunter/NHfragments
+
+echo "Done."
