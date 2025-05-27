@@ -59,6 +59,6 @@ echo "Click enter to open nethunter installer"
 echo " "
 read
 echo "Cleaning Fragments"
-rm -rf $HOME/TermuxNetHunter/NHfragments
+# rm -rf $HOME/TermuxNetHunter/NHfragments
 echo "Done."
 ./install-nethunter-termux
