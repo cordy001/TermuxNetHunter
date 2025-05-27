@@ -45,6 +45,8 @@ mv $HOME/kali-nethunter-daily-dev-rootfs-full-arm64.tar.xz $HOME/kali-nethunter-
 
 fi
 
+mv $HOME/TermuxNetHunter/install-nethunter-termux $HOME/
+
 chmod +x $HOME/install-nethunter-termux
 
 ./$HOME/install-nethunter-termux
@@ -76,7 +78,9 @@ sudo apt upgrade -y
 
 sudo apt --fix-broken install
 
-echo "Cleaning Fragments"
-rm -rf $HOME/TermuxNetHunter/NHfragments
+exit
+
+echo "Cleaning 🧹"
+rm -rf $HOME/TermuxNetHunter $HOME/install-nethunter-termux
 
 echo "Done."
