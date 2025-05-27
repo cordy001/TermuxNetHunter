@@ -41,7 +41,10 @@ apt install p7zip -y
 
 7z x NHfragments/kali-nethunter_fragments.zip.001 -o"$HOME/"
 
+tar -xvJf kali-nethunter-daily-dev-rootfs-full-arm64.tar.xz
+
 fi
+
 
 
 echo "
