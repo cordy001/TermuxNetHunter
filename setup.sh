@@ -66,3 +66,15 @@ rm -rf $HOME/TermuxNetHunter/NHfragments
 echo "Done."
 
 nh
+
+echo 'exec zsh' >> ~/.bashrc
+
+curl -fsSL https://archive.kali.org/archive-key.asc | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/kali-archive.gpg
+
+sudo apt update
+
+chown -R postgres:postgres /var/lib/postgresql/17/main
+
+sudo apt upgrade -y
+
+sudo apt --fix-broken install
