@@ -90,7 +90,7 @@ curl -fsSL https://archive.kali.org/archive-key.asc | sudo gpg --dearmor -o /etc
 
 sudo apt update
 
-chown -R postgres:postgres /var/lib/postgresql/17/main
+sudo apt-mark hold postgresql postgresql-17 postgresql-client-17 postgresql-client-common postgresql-common postgresql-common-dev
 
 sudo apt upgrade -y
 
