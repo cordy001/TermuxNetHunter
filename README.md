@@ -84,8 +84,6 @@ Copy paste this to install the Kali GPG Keys and this is also setup everything
 
 ```sh
 
-echo 'exec zsh' >> ~/.bashrc
-
 curl -fsSL https://archive.kali.org/archive-key.asc | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/kali-archive.gpg
 
 sudo apt update
